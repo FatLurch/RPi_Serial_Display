@@ -10,6 +10,7 @@ This script can be tested with the LCD mission for ARMA: https://github.com/FatL
 
 ## Setup
 In order to be able to utilize the serial interface on a Raspberry Pi 3, you'll need to disable SSH and enable Serial in the Raspberry Pi Configuration screen
+
 ![Config](http://tsog-milsim.com/images/Pi_Config.png)
 
  ## Wiring:
