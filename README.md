@@ -8,6 +8,10 @@ This is the first time I've ever used a Raspberry Pi so the code will be *rough*
 
 This script can be tested with the LCD mission for ARMA: https://github.com/FatLurch/TEST_ARMACOM_LCD.vr
 
+## Setup
+In order to be able to utilize the serial interface on a Raspberry Pi 3, you'll need to disable SSH and enable Serial in the Raspberry Pi Configuration screen
+![Config](http://tsog-milsim.com/images/Pi_Config.png)
+
  ## Wiring:
  **Important:** Be sure the serial adapter you use is configured for 3.3 volt signals, *not* 5 volts (your board could be damaged otherwise). In this configuration, you'll connect to the address of the serial adapter to get things working
  
