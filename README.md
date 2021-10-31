@@ -15,6 +15,8 @@ This script can be tested with the LCD mission for ARMA: https://github.com/FatL
 
 ![Wiring](http://tsog-milsim.com/images/ARMACOM_RaspberryPi_Wiring.png)
 
-Alternatively, you can use the Serial on an Arduino to drive the Rasperry Pi - you **will** need a logic level shifter to drop the 5 volt signals from the Arduino down to 3.3 volts for the Raspberry Pi
+Alternatively, you can use the Serial on an Arduino to drive the Rasperry Pi - you **will** need a logic level shifter to drop the 5 volt signals from the Arduino down to 3.3 volts for the Raspberry Pi.
+
+Affiliate Link for the Level Shifter on Amazon: https://amzn.to/3mwmdaE
 
 ![Alt Wiring](http://tsog-milsim.com/images/Pi_from_Arduino.png)
