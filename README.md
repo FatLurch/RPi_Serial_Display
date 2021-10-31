@@ -9,7 +9,7 @@ This is the first time I've ever used a Raspberry Pi so the code will be *rough*
 This script can be tested with the LCD mission for ARMA: https://github.com/FatLurch/TEST_ARMACOM_LCD.vr
 
  ## Wiring:
- **Important:** Be sure the serial adapter you use is configured for 3.3 volt signals, *not* 5 volts (your board could be damaged otherwise)
+ **Important:** Be sure the serial adapter you use is configured for 3.3 volt signals, *not* 5 volts (your board could be damaged otherwise). In this configuration, you'll connect to the address of the serial adapter to get things working
  
  I used an FTDI adapter (FT232) like this one on Amazon (Affiliate Link): https://amzn.to/2Y5IEdi
 
